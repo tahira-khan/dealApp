@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "link": "https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_960_720.jpg",
+      "title": "Burger King",
+      "content": "Hand crafted Conrete towels",
+      "rating": "4.7",
+      "price": "$24.00"
+
+  
+    },
+    {
+      "id": 2,
+      "link": "https://media.istockphoto.com/photos/couple-eating-lunch-with-fresh-salad-and-appetizers-picture-id944478708",
+      "title": "Mcdonals",
+      "content": "Gorgeous wooded kitchen",
+      "rating": "4.7",
+      "price": "$24.00"
+  
+    },
+    {
+      "id": 3,
+      "link": "https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_960_720.jpg",
+      "title": "KFC",
+      "content": "Hand crafted Conrete towels",
+      "rating": "4.7",
+      "price": "$24.00"
+    },{
+      "id": 4,
+      "link": "https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_960_720.jpg",
+      "title": "Pizza Hut",
+      "content": "Gorgeous wooded kitchen",
+      "rating": "4.7",
+      "price": "$24.00"
+  
+    }
+  
+  ]
+  
